@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe narration of some arbitrary proceedings of the committee chosen for the county of Kent. (But acting against it.) VVith the unanimous resolution of all true hearted Kentish-men in a just detestation. of the same</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77442</idno>
+            <idno type="STC">Wing B4606</idno>
+            <idno type="STC">Thomason E459_12</idno>
+            <idno type="STC">ESTC R205085</idno>
+            <idno type="EEBO-CITATION">99864526</idno>
+            <idno type="PROQUEST">99864526</idno>
+            <idno type="VID">162118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162118)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe narration of some arbitrary proceedings of the committee chosen for the county of Kent. (But acting against it.) VVith the unanimous resolution of all true hearted Kentish-men in a just detestation. of the same</title>
+               </titleStmt>
+               <extent>[2], 9 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 9.</note>
+                  <note>Annotation on Thomason copy: "Aug. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162118:1" rendition="simple:additions"/>
+            <p>A briefe NARRATION or ſome Arbitrary Proceedings of the Committee choſen for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Kent.</hi> (But acting againſt it.)</p>
+            <p>VVith the unanimous Reſolution of all true hearted KENTISH-MEN in a juſt Deteſtation. of the ſame</p>
+            <p>
+               <add>Aug: 17.</add> 
+               <hi>London,</hi> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narration">
+            <pb facs="tcp:162118:2"/>
+            <pb n="1" facs="tcp:162118:2"/>
+            <head>A Briefe Narration of ſome Arbitrary Proceedings of the Committee choſen for the County of <hi>Kent.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough by the permisſion of the divine providence, we have ſuf<g ref="char:EOLhyphen"/>fered a preſent tranſaction of our deliberate purpoſes, and by addi<g ref="char:EOLhyphen"/>tion of the miſchievous endea<g ref="char:EOLhyphen"/>vours of many of our degenera<g ref="char:EOLhyphen"/>ting Country-Committee-men, had Characters of diſaffection to the peace and quiet of our County undeſervedly ſtamp<g ref="char:EOLhyphen"/>ed upon us, whereby a double diſadvantage is laboured on our behalf. Yet that it may be evident how con<g ref="char:EOLhyphen"/>ſtant we dare appeare to any religious and warrantable undertaking, notwithſtanding any particular miſcariage, or misfortune in the ſame.</p>
+            <p>And that by way of return, we may ingrave thoſe
+<pb n="2" facs="tcp:162118:3"/>black aſpertions in legible Letters upon the brazen browes of ſuch as would outface the truth. We deſire the world to take notice, that we are ſo perfectly ſatisfi<g ref="char:EOLhyphen"/>ed in the aſſurance of our cleare Intentions, that we wil<g ref="char:EOLhyphen"/>lingly call heaven and earth to witneſſe our ſincere inte<g ref="char:EOLhyphen"/>grity in that particular.</p>
+            <p>We are not ſo undetermined in Religion, as to be ſu<g ref="char:EOLhyphen"/>perſtititious in ſucceſſes, and ſacrifice our reaſon there<g ref="char:EOLhyphen"/>unto, or ſuffer our ſelves to be ſhaken meerly by the mo<g ref="char:EOLhyphen"/>tions of adverſe events. We deny not but that Gods pre<g ref="char:EOLhyphen"/>ſent will may be read therein, but affirme likewiſe that his conſequent Order cannot be diſcern'd thereby, which may require the demoliſhment of many particular Gods to build up the frame of the univerſal, neither doth the preſent ruine of ſingle peices of equity dero<g ref="char:EOLhyphen"/>gate any thing from the goodneſſe of their nature, ſo that we may ſafely determine that the ſucceſſe and pre<g ref="char:EOLhyphen"/>valence of Injuſtice and ſelf Intereſt, againſt candid and unbiaced honeſty, muſt not at all abate our zeale to any publique, vertuous undertaking.</p>
+            <p>The performance of what we intimated in the ſecond place, will require a ſurvey of the proceedings of a fa<g ref="char:EOLhyphen"/>ctious number of our Committee men, whoſe diſtem<g ref="char:EOLhyphen"/>pered Pallates can reliſh nothing which ſavours of tran<g ref="char:EOLhyphen"/>quility and quiet, nor digeſt preparatives appropriated to that purpoſe, gaping after nothing but what is com<g ref="char:EOLhyphen"/>poſed of Arbitrary and Independent Ingredients, which they greedily ſwallow, untill their ſtomacks over<g ref="char:EOLhyphen"/>char'gd, ſend forth infectious, poyſoned paper pellets,
+<pb n="3" facs="tcp:162118:3"/>deſtructive to the very being of a free borne Subject. Witneſſe, an Order of theirs, long ſince commanded to be read in all the pariſh Churches within the County, ſtrictly denying ſo much liberty, as but to make our de<g ref="char:EOLhyphen"/>ſires or fufferings known by way of Petition, (leaſt poſſi<g ref="char:EOLhyphen"/>bly themſelves might have been the burthen of our complaint.)</p>
+            <p>This for the preſent we obeyed, in hope that defect in us might by their meanes be ſupplyed, and that they would endeavour to apply ſome ſeaſonable relaxation to our havie preſſures. But behold our expectation fruſtra<g ref="char:EOLhyphen"/>ted, and themſelves become the great Oppreſſors of us, extorting by threats of Sequeſtration, and ſuch affright<g ref="char:EOLhyphen"/>ing Engines, ſuch ſums of money as they thought fit to require by perremptory Letters diſperſed to that intent.</p>
+            <p>Our patience ſtill triumphed over their trregular exa<g ref="char:EOLhyphen"/>ctions, neither did we diſcover ſo much ſelf affection as to make publique complaints of theſe particular grie<g ref="char:EOLhyphen"/>vances. But when the more generall concernments of the Kingdome call'd upon us, and we were invited by the examples of our neighbouring Counties, to expreſſe our ſence and fellow feeling of theſe epedemicall diſtem<g ref="char:EOLhyphen"/>pers, which in probability without a ſpeedy Applyca<g ref="char:EOLhyphen"/>tion, muſt prove deſtructive both to the Church and State, we then reſolv'd to hazzard their diſpleaſure, and humbly offer our addreſſes higher, where incouraged by the ſucceſſe of others upon the like occaſion, we durſt preſume at leaſt a kind reception.</p>
+            <pb n="4" facs="tcp:162118:4"/>
+            <p> But this Appeale prevailed not to prevent the inter<g ref="char:EOLhyphen"/>poſition of our angry Maſters, who to diſcover their di<g ref="char:EOLhyphen"/>ſtaſt of what might tend to an accommodation, and de<g ref="char:EOLhyphen"/>monſtrate, that their buſie malice could aſpire to reach us, what ever diſtance we obſerv'd for our ſecurity, not ſtaying to expect a warrant for their undertaking, ſalute us with another Order (forg'd in the ſhop of their diſtem<g ref="char:EOLhyphen"/>pered fancy) wherein they doe aſperſe both us and on Petition with ſcandalous and reproachfull language, not<g ref="char:EOLhyphen"/>withſtanding the wiſedom of the two Houſes had diſcovered no ſuch merrit in expresſions of the ſame im<g ref="char:EOLhyphen"/>port, which they then had, (and ſince have) received from ſeverall places of the Kingdom. An Argument (in our opinion) of the unparalell'd preſumption of our an<g ref="char:EOLhyphen"/>ticipating and preiudicall Iudges whoſe haſty and indi<g ref="char:EOLhyphen"/>ieſted determinations are impatient to exſpect the reſults of more mature deliberation. Nor did they reſt here, but by raiſing of Armed Troops, endeavour (as at the firſt to diſcountenance, ſo now) to diſcourage us in our honeſt undertaking, and by their powerfull proviſion terrifie us from performing that duty which we really owned to our diſtreſſed Country. To this purpoſe their Order was read at the head of their ſeverall Troops at fayres, and Market townes, and to make it the more u<g ref="char:EOLhyphen"/>niverſall Commanded to be publiſhed (as their former had beene) in the ſeverall pariſh Churches within the County by their reſpective Miniſters; nor was this thought ſufficient, without diſarming all that appear'd forward and active in the buſineſſe, which private reſolu<g ref="char:EOLhyphen"/>tion of theirs was ſeaſonably diſcovered, by which meanes we had the oppertunity to take the ſtaffe into
+<pb n="5" facs="tcp:162118:4"/>our own hands the better to ſupport us from their in<g ref="char:EOLhyphen"/>tended opproeſſion and ruine (how iuſt the provocation was, we leave to all Indifferrent Arbitrators to deter<g ref="char:EOLhyphen"/>mine,) adde hereunto the ſeverall expresſions ef Sir <hi>Anthony Welldon</hi> and Mr. <hi>Beale</hi> the firſt declaring that he would not croſſe the ſtreete of <hi>Rocheſter</hi> to ſave the ſoule of a ſubſcriber, the other delivering, he thought it very requiſit that two or three of the Petitioners in e<g ref="char:EOLhyphen"/>very Pariſh were hang'd up for example. This contrary carriage compelled us to an ingagement, and for ſatiſ<g ref="char:EOLhyphen"/>faction to others to evidence the ground of it by a Re<g ref="char:EOLhyphen"/>monſtrance, wherin we ſtill continued to profeſſe our peaceable intents though (in obedience to the Law of nature) inforc't to take up Armes for our defence in pro<g ref="char:EOLhyphen"/>ſccution of the ſame. This we deſire might be Com<g ref="char:EOLhyphen"/>municated to the two houſes, as a preparative to our en<g ref="char:EOLhyphen"/>tertainment there, and to prevent all miſconſtructions of our fayre intentions.</p>
+            <p>To that end wee did intruſt it in the hands of <hi>Captaine Lee,</hi> and <hi>Captaine Neſtrone</hi> both <hi>Members</hi> of the lower Houſe, and of our high <hi>Committee,</hi> who (to ſay no more) did unworthyly deceive our confidence, and abuſe their truſt by preſenting it unperfect, having firſt obliterated the moſt material paſſages, which might either conduce to our advantage againſt themſelves, or a right under<g ref="char:EOLhyphen"/>ſtanding with thoſe to whom we had intended our ad<g ref="char:EOLhyphen"/>dreſſe. What the unhappy conſequence of this hath bin we ſhall omit, as needleſſe to be mentioned; and where the reparation both for the Affron<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſubſequences of it is due to be expected, wee do conceive it evident e<g ref="char:EOLhyphen"/>nough, without a uſe of <hi>Applic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</hi>
+            </p>
+            <pb n="9" facs="tcp:162118:5"/>
+            <p> It remaines only now that we labour our owne Vin<g ref="char:EOLhyphen"/>dication from ſo fowle a defection, as we muſt of neceſ<g ref="char:EOLhyphen"/>ſity be guilty of, if we neglect that duty we owe unto our captive country men (whoſe reputatio<g ref="char:cmbAbbrStroke">̄</g> ſhal ſurvive the ma<g ref="char:EOLhyphen"/>lice of their enemies, &amp; in deſpight of treachery or fortun (a <hi>Diety</hi> which we adore not) be ever Regiſtred for Imi<g ref="char:EOLhyphen"/>tation, when the Fames and Names of their contemn'd Oppoſers ſhall ſtink and periſh) in relation whereunto we do againe religiouſly ingage our ſelves faithfully to diſcharge that obligation which is upon us, and not to neglect any oportunity which may conduce to their ad<g ref="char:EOLhyphen"/>vantage, being fully aſſured in our Conſciences, that our firſt reſolutions were built upon a very ſafe foundation, and that having ſo warrantable ground for our produc<g ref="char:EOLhyphen"/>tions, it is no leſſe noble to act thereon (though it prove our owne Tragedy) with out ſwords in our hands, then it will appeare Inglorious tamely to enſlave our ſelves by a degenerous ſubmiting to arbitrary and inſulting Reſults and ſo become the <hi>Commicall Scoene</hi> of laughter and con<g ref="char:EOLhyphen"/>tempt to all uſurping Tempers.</p>
+            <p>And herein as wee can diſcern no reaſon to ſuſpect the approbation, ſo are we as confident to promiſe to our ſelves the uſefull aſſiſtance of all that doe unfeignedly incline to peace, either in this City of <hi>London,</hi> or the Adjacent Counties (whenſoever oportunity ſhal prompt them to afford it (whoſe juſt and ſerious apprehenſions of the increaſing diſtractions of this declineing Kingdome (fomented by the factious ſpi<g ref="char:EOLhyphen"/>rits of diſaffected Sectaries) hath lately prevailed with them to prepare and preſent the ſame addreſſes which we unworthily were prevenred in.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:162118:5" rendition="simple:additions"/>
+            <head>The Colcheſter Spie.</head>
+            <head type="sub">Truly informing the Kingdome of the eſtate of that gallant Town, and the attempts of <hi>Fairfax</hi> againſt it: with ſome other remarkable Intelligence from the Engliſh and Scots Army; the laſt news from the Navie, alſo from Weſtminſter and London.</head>
+            <head type="sub">From <hi>Thurſday, Aug.</hi> 10. to <hi>Thurſday, Aug.</hi> 17. 1648.</head>
+            <argument>
+               <lg>
+                  <l>Yet Colcheſter bears bravely up,</l>
+                  <l>They eat and drink apace,</l>
+                  <l>Lately they gave a deadly cup</l>
+                  <l>Unto the Babes of Grace.</l>
+               </lg>
+               <lg>
+                  <l>Though the Saints hope to ſtarve them out,</l>
+                  <l>Alas it nere will bee:</l>
+                  <l>For if they grapple t'other bout,</l>
+                  <l>O <hi>Fairfax,</hi> farewell thee.</l>
+               </lg>
+            </argument>
+            <head>To the Earl of Norwich, Lord Capell, Sir Charles Lucas, and the reſt of the renowned Captaines in Colchester.</head>
+            <lg>
+               <l>Shrink not brave Hero's, be not you diſmaid,</l>
+               <l>Becauſe ſo long you want your hoped aid;</l>
+               <l>You know it is not eaſie to bring downe,</l>
+               <l>Traytors who ſit at Helme, and graſp a Crowne:</l>
+               <l>The Scots muſt force their way, through Lamberts heart.</l>
+               <l>And ſend ten thouſand for to claime their part,</l>
+               <l>Amongſt the Furies, ere they can come on</l>
+               <l>with winged haſt, to your redemption;</l>
+               <l>The Prince of <hi>Wales,</hi> although King of the Seas,</l>
+               <l>Yet feares his cure may adde to their Diſeaſe;</l>
+               <l>Should he act raſhly, and a Battaile trie</l>
+               <l>Ere things are come unto maturitie,</l>
+               <l>Things work apace, be patient and ere long</l>
+               <l>Unto your reſcue comes three Armies ſtrong.</l>
+            </lg>
+            <p>Printed in the Yeer 1648.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
